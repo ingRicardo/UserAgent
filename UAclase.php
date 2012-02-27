@@ -2,7 +2,7 @@
 
  	define("DB_HOST",'localhost');
 	define("DB_USER",'root'); 
-	define("DB_PASSWORD",'mierda66'); 
+	define("DB_PASSWORD",'xxxxxxxx'); 
 	define("DB_DATABASE",'test'); 
 	include_once("DbMySQL.php");
 	$firma = $_SERVER['HTTP_USER_AGENT'];
